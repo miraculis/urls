@@ -1,0 +1,23 @@
+{
+  "name": "urls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miraculis/urls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miraculis/urls/issues"
+  },
+  "homepage": "https://github.com/miraculis/urls#readme",
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  }
+}
